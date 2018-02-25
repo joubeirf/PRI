@@ -1,0 +1,3 @@
+**lamp (apache, mysq, php)
+run data/users/create_db through mariadb
+set user/password you choose in front/config.php

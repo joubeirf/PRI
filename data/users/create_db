@@ -1,0 +1,13 @@
+
+CREATE DATABASE users;
+
+use users;
+
+CREATE TABLE Persons (
+     Uid int NOT NULL AUTO_INCREMENT,
+     LastName varchar(255) NOT NULL,
+     FirstName varchar(255),
+     Mail varchar(255),
+     Password varchar(255),
+     PRIMARY KEY (Uid)
+);
