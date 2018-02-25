@@ -1,0 +1,7 @@
+To Run this project 
+
+You need to install any server(wamp,xampp,tomcat etc.)
+and database mysql.
+then just open sql file named as help.sql(in this project)
+
+then from server launch it.
